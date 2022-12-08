@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main -prints the sizes of various types
+ * main - Entry point
  *
+ *prints the sizes of various types
  *
- * Return 0 
+ * Return :Always 0 (Success)
  */
 int main(void)
 {
