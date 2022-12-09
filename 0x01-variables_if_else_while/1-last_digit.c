@@ -1,15 +1,22 @@
 #include <stdio.h>
 #include <stdilb.h>
 #include <time.h>
-/*main - Entry point
+
+/**
+ * main - Entry point
  *
- * Return: Always 0(Success)
+ * Description:print the value of n status:
+ *
+ * Return: Always ) (Success)
  */
+
 int main(void)
 {
 	int n;
+
 	strand(time(0));
-	n =rand() -RAND_MAX/2;
+	n =rand() - RAND_MAX / 2;
+
 	/*your code goes here */
 	if(n>0)
 	{
