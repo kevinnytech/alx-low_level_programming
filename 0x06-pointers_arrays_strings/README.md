@@ -1,4 +1,5 @@
-TASK 0x06. C - More pointers, arrays and strings
+TASK 0x06.
+C - More pointers, arrays and strings
 
 Learning Objectives
 What are pointers and how to use them
