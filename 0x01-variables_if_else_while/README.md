@@ -5,7 +5,7 @@ Learning Objectives
 
 What are the arithmetic operators and how to use them
 
-What are the logical operators (sometimes called boolean operators) and how to use them
+What are the logical operators (sometimes called boolean operators)
 
 What the the relational operators and how to use them
 
