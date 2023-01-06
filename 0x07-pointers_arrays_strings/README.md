@@ -1,7 +1,5 @@
 **C - Pointer to Pointer**
-
-C – Pointer to Pointer with example
-
+TASK 0X07
 Multi-dimensional Arrays in C
 Two dimensional (2D) arrays in C programming with example
 
