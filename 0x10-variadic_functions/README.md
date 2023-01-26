@@ -1,4 +1,4 @@
-0x10 variadic functions section  task
+0x10 variadic function task
 A variadic function is a type of function in C programming that can take a variable number of arguments. The "..." notation is used to denote a variadic function. For example, a simple variadic function to add a variable number of integers together might be declared
 
 Variadic, a mystery
