@@ -2,7 +2,7 @@
 A variadic function is a type of function in C programming that can take a variable number of arguments. The "..." notation is used to denote a variadic function. For example, a simple variadic function to add a variable number of integers together might be declared
 
 
-Poem....
+Poem...
 Variadic, a mystery
 
 In C, a tool of great versatility
