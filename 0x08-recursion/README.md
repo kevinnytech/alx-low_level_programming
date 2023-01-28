@@ -3,6 +3,8 @@ What is recursion
 How to implement recursion
 In what situations you should implement
           ==POEM==
+A beauty 
+
 Recursion in C, a beauty to see
 
 A function that calls itself, endlessly
