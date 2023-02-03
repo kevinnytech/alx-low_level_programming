@@ -6,7 +6,7 @@ The size of the arrays is fixed: So we must know the upper limit on the number o
 Inserting a new element in an array of elements is expensive because a room has to be created for the new elements and to create a room exiAdvantages of Linked Lists
 
 Disadva:
-poem=============
+poem==========
  singly linked list so fine and fair
 
 A sequence of nodes linked with care
