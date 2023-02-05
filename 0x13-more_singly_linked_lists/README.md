@@ -1,5 +1,7 @@
 just a readme file for the task 
-de, the head, leads the way
+
+
+ the head, leads the way
 
 With its pointer pointing to the next node every day
 
