@@ -1,6 +1,7 @@
 just a readme file for the task 
 
 
+o=========
  the head, leads the way
 
 With its pointer pointing to the next node every day
