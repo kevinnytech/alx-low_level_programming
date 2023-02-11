@@ -1,7 +1,7 @@
 Task
 
 ====================
-oootykao
+ooo
 /O (input/output) in C programming language refers to the process of reading data from input sources (such as keyboard, file, network, etc.) and writing data to output sources (such as screen, file, network, etc.). The standard library functions used for I/O in C include
 printf() and scanf() for formatted input/output.
 
